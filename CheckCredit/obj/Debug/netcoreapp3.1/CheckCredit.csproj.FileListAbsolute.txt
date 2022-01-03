@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\CheckCredit\bin\Debug\netcoreapp3.1\CheckCredit.exe
+C:\Users\ethan\source\repos\CheckCredit\bin\Debug\netcoreapp3.1\CheckCredit.deps.json
+C:\Users\ethan\source\repos\CheckCredit\bin\Debug\netcoreapp3.1\CheckCredit.runtimeconfig.json
+C:\Users\ethan\source\repos\CheckCredit\bin\Debug\netcoreapp3.1\CheckCredit.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\CheckCredit\bin\Debug\netcoreapp3.1\CheckCredit.dll
+C:\Users\ethan\source\repos\CheckCredit\bin\Debug\netcoreapp3.1\CheckCredit.pdb
+C:\Users\ethan\source\repos\CheckCredit\obj\Debug\netcoreapp3.1\CheckCredit.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\CheckCredit\obj\Debug\netcoreapp3.1\CheckCredit.AssemblyInfo.cs
+C:\Users\ethan\source\repos\CheckCredit\obj\Debug\netcoreapp3.1\CheckCredit.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\CheckCredit\obj\Debug\netcoreapp3.1\CheckCredit.dll
+C:\Users\ethan\source\repos\CheckCredit\obj\Debug\netcoreapp3.1\CheckCredit.pdb
+C:\Users\ethan\source\repos\CheckCredit\obj\Debug\netcoreapp3.1\CheckCredit.genruntimeconfig.cache
+C:\Users\ethan\source\repos\CheckCredit\obj\Debug\netcoreapp3.1\CheckCredit.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\CheckCredit\obj\Debug\netcoreapp3.1\CheckCredit.GeneratedMSBuildEditorConfig.editorconfig
